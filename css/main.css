@@ -1,0 +1,33 @@
+.contain{
+  background-color:#FFD700;
+  color:#000000;
+  text-align: center;
+  font-size: 2px;
+  f
+}
+
+
+.jumbotron{
+  background-color: #000000
+}
+.container{
+  background-color: #FFFFFF
+}
+.containerup{
+  background-color: #FFD700
+  color:#FFD700
+}
+
+
+
+.navbar-brand{
+  background-color: #191970
+  text-align: right;
+
+}
+.background{
+    background-color: #000000
+}
+footer{
+    text-align: center;
+}
